@@ -69,6 +69,7 @@ div.c-sidebar
         a Misc
         div.l-submenu-1
           a-base-url(href="/tutorials/misc/adding-global-members") Adding Global Members
+          a-base-url(href="/tutorials/misc/minimal-imports") Minimal Imports
           //- a-base-url(href="/tutorials/misc/adding-third-party-modules") Adding Third-Party Modules
       a-base-url.heading-link(href="/advanced-tutorials") Advanced Tutorials
       div.c-sidebar__menu-body
